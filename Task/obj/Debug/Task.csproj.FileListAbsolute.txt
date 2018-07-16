@@ -1,0 +1,9 @@
+C:\Users\Islam_Rakymbay\Downloads\Task3 Linq\Task\Task\bin\Debug\Task.exe.config
+C:\Users\Islam_Rakymbay\Downloads\Task3 Linq\Task\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
+C:\Users\Islam_Rakymbay\Downloads\Task3 Linq\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\Islam_Rakymbay\Downloads\Task3 Linq\Task\Task\obj\Debug\SampleSupport.SampleForm.resources
+C:\Users\Islam_Rakymbay\Downloads\Task3 Linq\Task\Task\obj\Debug\Task.csproj.GenerateResource.Cache
+C:\Users\Islam_Rakymbay\Downloads\Task3 Linq\Task\Task\bin\Debug\Task.exe
+C:\Users\Islam_Rakymbay\Downloads\Task3 Linq\Task\Task\bin\Debug\Task.pdb
+C:\Users\Islam_Rakymbay\Downloads\Task3 Linq\Task\Task\obj\Debug\Task.exe
+C:\Users\Islam_Rakymbay\Downloads\Task3 Linq\Task\Task\obj\Debug\Task.pdb
